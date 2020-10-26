@@ -33,7 +33,7 @@
                         "jade"          : "~0.27.2",
                         "neuron"        : "~0.4.5",
                         "cron"          : "~1.0.0",
-                        "minimatch"     : "~ 0.2.9",
+                        "minimatch"     : "~3.0.2",
                         "find-requires" : "~ 0.1.4"
                       },
   "devDependencies" : {
